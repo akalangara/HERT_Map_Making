@@ -1,0 +1,21 @@
+﻿REGION,ISO3_CODE,H,F,W,S,N
+Ethiopia,ETH,1,0,0,0,0
+South Sudan,SSD,0,1,0,0,0
+Cameroon,CMR,0,0,1,0,0
+Burundi,BDI,0,0,0,1,0
+Zimbabwe,ZWE,0,0,0,0,1
+Mozambique,MOZ,1,1,0,0,0
+Kenya,KEN,0,1,1,0,0
+Malawi,MWI,1,1,0,1,0
+Madagascar,MDG,1,1,1,0,1
+Eswatini,SWZ,1,0,0,1,0
+Namibia,NAM,1,1,1,1,1
+Benin,BEN,1,0,1,0,1
+Liberia,LBR,0,1,0,1,0
+Haiti,HTI,1,0,1,0,1
+Brazil,BRA,0,1,0,1,1
+Mexico,MEX,1,0,0,0,0
+Syria,SYR,0,1,1,1,1
+Afghanistan,AFG,1,0,0,0,0
+Somalia,SOM,0,1,1,1,0
+Sudan,SDN,1,0,0,0,1
